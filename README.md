@@ -2,6 +2,8 @@
 
 ## Homework 2 -202655358(dolmenge0909) 이명서
 
+## Equation editing
+
 | # | Text | Formula |
 |---|------|---------|
 | 1 | IF (P AND Q) THEN R | $(P \wedge Q) \to R$ |
