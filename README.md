@@ -1,6 +1,6 @@
-# Dmath 과제 - 이명서 (202655358)
+# My Discrete Math RePository
 
-## 2.1 Write Mathematical Expressions
+## Homework 2 -202655358(dolmenge0909) 이명서
 
 | # | Text | Formula |
 |---|------|---------|
