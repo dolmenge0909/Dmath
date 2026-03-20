@@ -1,6 +1,6 @@
 # My Discrete Math RePository
 
-## Homework 2 -202655358(dolmenge0909) 이명서
+## Homework 2 -202655358 이명서
 
 ## Equation editing
 
@@ -19,12 +19,12 @@
 
 ## 2.2 Translate Sentences Into Logic Formulas
 
-**Propositions:**
+**Using the propositions**
 * $p$: "I study"
 * $q$: "I will pass the course"
 * $r$: "The professor accepts bribes"
 
-**Translations:**
+**Translate the following into satements of propostional logic**
 1. If I do not study, then I will only pass the course if the professor accepts bribes.
    * $\neg p \to (q \leftrightarrow r)$
 2. If the professor accepts bribes, then I do not study.
